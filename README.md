@@ -3,6 +3,8 @@
 
 # How to run
 
+Before you use coin_cbc, you must install (cbc)[https://www.coin-or.org/Cbc/]
+
 ```ターミナル: bash
 $ git clone git@github.com:RyosukeNAKATA/Math-Optim-Rust.git
 $ cd Math-Optim-Rust/
